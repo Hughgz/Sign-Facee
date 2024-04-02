@@ -1,0 +1,1 @@
+﻿Data Source=ESON-PC\GIANGNAMNAM;Initial Catalog=FRSYSTEM_DATABASE;Integrated Security=True
